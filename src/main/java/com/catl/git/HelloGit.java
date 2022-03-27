@@ -7,5 +7,8 @@ public class HelloGit {
 
         System.out.println("继续添加......");
         HelloGit helloGit = new HelloGit();
+
+        // chengYS提交分支
+        System.out.println(1+1);
     }
 }
