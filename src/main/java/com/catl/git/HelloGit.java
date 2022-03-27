@@ -11,5 +11,7 @@ public class HelloGit {
         System.out.println("CL提交代码");
 
         System.out.println("abc_abc_abc");
+
+        System.out.println("主干添加...");
     }
 }
