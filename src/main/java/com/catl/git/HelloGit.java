@@ -7,5 +7,7 @@ public class HelloGit {
 
         System.out.println("继续添加......");
         HelloGit helloGit = new HelloGit();
+
+        System.out.println("zhangHq提交");
     }
 }
