@@ -19,5 +19,7 @@ public class HelloGit {
          System.out.println("在线更新数据....");
 
         System.out.println("克隆项目提交");
+
+        System.out.println("克隆项目提交123");
     }
 }
