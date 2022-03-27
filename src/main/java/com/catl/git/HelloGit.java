@@ -9,5 +9,7 @@ public class HelloGit {
         HelloGit helloGit = new HelloGit();
 
         System.out.println("CL提交代码");
+
+        System.out.println("abc_abc_abc");
     }
 }
